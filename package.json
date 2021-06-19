@@ -1,0 +1,26 @@
+{
+  "name": "kurs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@chenfengyuan/vue-carousel": "^1.0.5",
+    "@nuxt/typescript-runtime": "^1.0.0",
+    "@nuxtjs/axios": "^5.12.2",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "nuxt": "^2.14.0",
+    "vue": "^2.6.12",
+    "vue-template-compiler": "^2.6.12",
+    "vue-yandex-maps": "^0.10.9"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.0",
+    "@nuxt/typescript-build": "^2.0.2"
+  }
+}

@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "name": "Ferrari F8 Tributo",
+        "price": "25 000 000",
+        "HP": 980,
+        "MS":360,
+        "img":"F8 Tributo.jpg",
+        "colapse":"collapseExample1",
+        "datatarget":"#collapseExample1",
+        "razgon": 5
+    },
+    {
+        "id": 2,
+        "name": "Ferrari 488 Pista",
+        "price": "18 000 000",
+        "HP": 900,
+        "MS":320,
+        "img":"488Pista.jpg",
+        "colapse":"collapseExample2",
+        "datatarget":"#collapseExample2",
+        "razgon": 5.4
+    },
+    {
+        "id": 3,
+        "name": "Ferrari 812 GTS",
+        "price": "23 000 000",
+        "HP": 900,
+        "MS":300,
+        "img":"812GTS.jpg",
+        "colapse":"collapseExample3",
+        "datatarget":"#collapseExample3",
+        "razgon": 5.5
+    },
+    {
+        "id": 4,
+        "name": "Ferrari GTC4 Lusso",
+        "price": "28 000 000",
+        "HP": 890,
+        "MS":299,
+        "img":"GTC4Lusso.jpg",
+        "colapse":"collapseExample4",
+        "datatarget":"#collapseExample4",
+        "razgon": 6.4
+    },
+    {
+        "id": 5,
+        "name": "Ferrari 458 Italia",
+        "price": "35 000 000",
+        "HP": 850,
+        "MS":320,
+        "img":"458Italia.jpg",
+        "colapse":"collapseExample5",
+        "datatarget":"#collapseExample5",
+        "razgon": 5.3
+    },
+    {
+        "id": 6,
+        "name": "Ferrari F40",
+        "price": "40 000 000",
+        "HP": 950,
+        "MS":360,
+        "img":"F40.jpg",
+        "colapse":"collapseExample6",
+        "datatarget":"#collapseExample6",
+        "razgon": 4.8
+    },
+    {
+        "id": 7,
+        "name": "Ferrari LaFerrari",
+        "price": "33 000 000",
+        "HP": 950,
+        "MS":360,
+        "img":"LaFerrari.jpg",
+        "colapse":"collapseExample7",
+        "datatarget":"#collapseExample7",
+        "razgon": 4.8
+    },
+    {
+        "id": 8,
+        "name": "Ferrari Roma",
+        "price": "23 000 000",
+        "HP": 780,
+        "MS":270,
+        "img":"Roma.jpg",
+        "colapse":"collapseExample8",
+        "datatarget":"#collapseExample8",
+        "razgon": 6.8
+    }
+
+]
